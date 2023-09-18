@@ -1,0 +1,6 @@
+@font-face {
+	font-family: 'Mons';
+	src: url(font_mon/Montserrat-SemiBold.ttf) format('truetype');
+	src: url(font_mon/Montserrat-ExtraBold.ttf) format('truetype');
+	src: url(font_mon/Montserrat-Medium.ttf) format('truetype');
+}
